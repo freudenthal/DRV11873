@@ -1,0 +1,8 @@
+DRV11873	KEYWORD1
+setSpeedMode	KEYWORD2
+DirectionMode	KEYWORD2
+setSpeedMode	KEYWORD2
+setDirectionMode	KEYWORD2
+setSpeedPercentage	KEYWORD2
+readFrequency	KEYWORD2
+setSpeed	KEYWORD2
